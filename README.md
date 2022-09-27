@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masahito-I&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Masahito-I/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <!--
 **Masahito-I/Masahito-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
