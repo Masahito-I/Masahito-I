@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masahito-I&theme=vue-dark&&layout=compact&count_private=true&hide=html) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masahito-I&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masahito-I&theme=vue-dark&&layout=compact&count_private=true&hide=html) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masahito-I&count_private=true&theme=tokyonight)
 <!--
 **Masahito-I/Masahito-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
