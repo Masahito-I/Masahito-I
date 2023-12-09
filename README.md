@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masahito-I&theme=vue-dark&&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masahito-I&count_private=true&theme=tokyonight)
-
 ## I'm interested in the below skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,go,php,react,jquery,materialui,spring,gradle,docker,jenkins,figma,firebase,gcp,wordpress,idea,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,go,php,react,jquery,materialui,spring,gradle,docker,jenkins,figma,firebase,gcp,wordpress,idea,vscode" />
+  </a>
+</p>
