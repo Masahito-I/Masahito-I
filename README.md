@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## I'm interested in the below skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,go,php,react,jquery,materialui,spring,gradle,docker,jenkins,figma,firebase,gcp,wordpress,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,go,php,react,jquery,materialui,spring,gradle,docker,kubernetes,jenkins,figma,firebase,gcp,wordpress,idea,vscode" />
   </a>
 </p>
